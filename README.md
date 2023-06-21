@@ -1,3 +1,16 @@
+
+<p >Database name:covid19</p>
+<p>import the covid19.sql from inside main branch</p>
+
+<p>
+    1.When we you first run the project the index page will open(Display the gathered data)
+    2. clicking on the help & gide link take to you to the help%guide main page
+    
+
+</p>
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
