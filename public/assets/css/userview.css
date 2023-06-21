@@ -1,0 +1,109 @@
+#hi{
+    background-image: url('/image/corona2.jpg');
+
+
+height: 100%;
+
+/* Center and scale the image nicely /*/
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+  }
+
+
+.card{
+    /* border-radius: 15px; */
+box-shadow: 0 7px 25px rgb(249, 242, 242);
+height: 180px;
+border-radius: 15px;
+
+
+  }
+.card:hover{
+ /* transform: scale(1.05); */
+/* background: var(--maroon); */
+
+box-shadow: 0 10px 20px rgba(186, 23, 23, 0.749), 0 4px 8px rgba(0,0,0,.06);
+}
+a{
+color: #343a40;
+}
+a:link{
+text-decoration: none;
+
+}
+a:hover {
+color: #343a40;
+}
+.bg-image {
+
+/* Add the blur effect */
+filter: blur(8px);
+-webkit-filter: blur(8px);
+opacity: .4;
+
+/* Full height */
+height: 100%;
+
+/* Center and scale the image nicely */
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+}
+#la
+{
+  border-top-right-radius: 20px;
+  width: 100%;
+
+}
+#tr{
+  background-color:  rgba(255, 255, 255, .4);
+
+
+
+}
+.bg1-image {
+
+  /* Add the blur effect */
+  filter: blur(8px);
+  -webkit-filter: blur(18px);
+  opacity: .4;
+
+  /* Full height */
+  /* height: 100%; */
+  /* height:500px; */
+
+  /* Center and scale the image nicely */
+  /* background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover; */
+  }
+  #card-c
+  {
+    padding-top: 540px;
+  }
+  .kumar{
+    padding-bottom: 15rem;
+    text-transform:uppercase;
+  }
+  .bg2-image {
+
+    /* Add the blur effect */
+    filter: blur(8px);
+    /* -webkit-filter: blur(8px); */
+
+
+
+    }
+    #ille
+    {
+      border-top-right-radius: 120px;
+      background-color: #eddeb1;
+      /* opacity: .4; */
+
+      color: #6c3f3f;
+      font-weight: 500;
+
+
+    }
+

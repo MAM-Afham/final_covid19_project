@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(241, 245, 247);
+}
+
+
+#cimg{
+    filter: blur(8px);
+
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+.c19{
+    background-color: antiquewhite;
+    border-radius: 15px;
+
+}
+
+#link
+{
+    white-space: nowrap;
+overflow: hidden;
+text-overflow: ellipsis;
+display: inline-block;
+max-width: 40%;
+}
